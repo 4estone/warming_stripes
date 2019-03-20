@@ -25,7 +25,7 @@ L'ensemble des séries temporelles disponibles représentent des anomalies de te
 
 #### Un exemple
 
-<p><img src="global_temps_line_year.png" width="800" height="400" /></p>
+<p><img src="images/global_temps_line_year.png" width="800" height="400" /></p>
 
 #### Visualisations avancées
 Utilisation IPython, Bokeh
