@@ -28,7 +28,7 @@ Utilisation IPython, Bokeh
  [Bandes annuelles](../annual-stripes-700x300.html)
  [Bandes mensuelles](../monthly-stripes-700x300.html)
  
- [![Bandes annuelles](../annual-stripes-700x300.html)
+ [!Bandes annuelles](https://github.com/4estone/warming_stripes/blob/master/annual-stripes-700x300.html)
  
 <br> <a href="../annual-stripes-700x300.html"></a><br>
 

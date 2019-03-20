@@ -18,7 +18,7 @@ gistemp_file = 'https://data.giss.nasa.gov/gistemp/tabledata_v3/GLB.Ts+dSST.csv'
 noaa_file = 'https://www.ncdc.noaa.gov/cag/global/time-series/globe/land_ocean/p12/12/1880-2050.csv'
 hadley_file = 'https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/time_series/HadCRUT.4.6.0.0.monthly_ns_avg.txt'
 berkeley_file = 'http://berkeleyearth.lbl.gov/auto/Global/Land_and_Ocean_complete.txt'
-cowtan_way_file = 'http://www-users.york.ac.uk/~kdc3/papers/coverage2013/had4_krig_v2_0_0.txt'
+cowtan_way_file = 'http://www.users.york.ac.uk/~kdc3/papers/coverage2013/had4_krig_v2_0_0.txt'
 
 #Common baseline period (inclusive)
 start_year = 1971
