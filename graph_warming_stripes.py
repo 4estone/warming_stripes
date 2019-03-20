@@ -1,3 +1,5 @@
+# -*- coding: utf-8; -*-
+
 import numpy as np
 import matplotlib
 matplotlib.use('agg')
@@ -17,7 +19,6 @@ temp_data = 'global_temps.csv'
 savename = 'global_temps_line'
 
 temps = np.genfromtxt(temp_data, delimiter=",", usecols=(5))[1:]
-
 #temps = np.genfromtxt(temp_data, delimiter=",")
 
 temps_normed = ((temps - temps.min(0)) / temps.ptp(0)) * (len(temps) - 1)
@@ -25,11 +26,15 @@ print ( temps)
 elements = len(temps)
 
 x_lbls = np.arange(elements)
+print (x_lbls)
 y_vals = temps_normed / (len(temps) - 1)
 y_vals2 = np.full(elements, 1)
 bar_wd  = 2
 
-my_cmap = plt.cm.RdBu_r #choose colormap to use for bars
+# choose colormap to use for bars, by default RdBu_r
+# Choose one diverging colormaps type
+# https://matplotlib.org/users/colormaps.html
+my_cmap = plt.cm.RdBu_r
 norm = Normalize(vmin=0, vmax=elements - 1)
 
 def colorval(num):
