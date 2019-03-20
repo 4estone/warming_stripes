@@ -24,7 +24,7 @@ L'ensemble des séries temporelles disponibles représentent des anomalies de te
 * [Fabien Maussion repository](https://github.com/fmaussion/bokeh-stripes). Repository d'un glaciologue de l'université d'Innsbruck
 
 #### Un exemple
-[!Bandes annuelles](https://github.com/4estone/warming_stripes/blob/master/global_temps_line_year.png)
+[!Bandes annuelles](https://github.com/4estone/warming_stripes/master/global_temps_line_year.png)
 #### Visualisations avancées
 Utilisation IPython, Bokeh
  [Bandes annuelles](../annual-stripes-700x300.html)
