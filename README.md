@@ -13,13 +13,13 @@ L'ensemble des séries temporelles disponibles représentent des anomalies de te
 
 |Ressources	                 | Période   | Période de référence |
 |----------------------------|:----------|:---------------------|
-| Goddard Space Flight Center| 1880-2019 | 1901-2000            |
+| Goddard Space Flight Center| 1880-2019 | 1951-1980            |
 | Met Office                 | 1850-2019 | 1961-1990            |
 | NOAA                       | 1880-2019 | 1951-1980            |
 | Berkeley Earth             | 1880-2019 | 1951-1980            |
 
 
-#### Programmation
+#### Code
 * [scrape_global_temps](https://github.com/hausfath/scrape_global_temps). Séries de scripts pour télécharger les données de références
 * [Fabien Maussion repository](https://github.com/fmaussion/bokeh-stripes). Dépôt d'un glaciologue de l'université d'Innsbruck
 
