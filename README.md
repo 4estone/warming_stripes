@@ -25,6 +25,11 @@ L'ensemble des séries temporelles disponibles représentent des anomalies de te
 
 #### Un exemple
 [!Bandes annuelles](global_temps_line_year.png)
+
+<p>
+    <img src="global_temps_line_year.png)" width="220" height="240" />
+</p>
+
 #### Visualisations avancées
 Utilisation IPython, Bokeh
  [Bandes annuelles](../annual-stripes-700x300.html)
