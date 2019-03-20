@@ -27,6 +27,7 @@ L'ensemble des séries temporelles disponibles représentent des anomalies de te
 Utilisation IPython, Bokeh
  [Bandes annuelles](../annual-stripes-700x300.html)
  [Bandes mensuelles](../monthly-stripes-700x300.html)
+ 
 <iframe width="560" height="315" src="annual-stripes-700x300.html" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="monthly-stripes-700x300.html" frameborder="0" allowfullscreen></iframe>
