@@ -24,12 +24,13 @@ L'ensemble des séries temporelles disponibles représentent des anomalies de te
 * [Fabien Maussion repository](https://github.com/fmaussion/bokeh-stripes). Repository d'un glaciologue de l'université d'Innsbruck
 
 #### Un exemple
+Réalisé avec le script warmingStripesV1.py
 
-<p><img src="images/global_temps_line_year.png" width="800" height="400" /></p>
+<p><img src="images/global_temps_line_year.png" width="1000" height="500" /></p>
 
 #### Visualisations avancées
 Utilisation IPython, Bokeh
- [Bandes annuelles](../annual-stripes-700x300.html)
- 
- [Bandes mensuelles](../monthly-stripes-700x300.html)
+
+[Bandes annuelles](html/annual-stripes-700x300.html)
+[Bandes mensuelles](html/monthly-stripes-700x300.html)
  
