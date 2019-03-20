@@ -27,7 +27,7 @@ L'ensemble des séries temporelles disponibles représentent des anomalies de te
 [!Bandes annuelles](global_temps_line_year.png)
 
 <p>
-    <img src="global_temps_line_year.png)" width="600" height="300" />
+    <img src="global_temps_line_year.png" width="600" height="300" />
 </p>
 
 #### Visualisations avancées
