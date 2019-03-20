@@ -8,7 +8,7 @@ L'ensemble des séries temporelles disponibles représentent des anomalies de te
 #### Data
 * [Goddard Space Flight Center , Sciences and Exploration Directorate, Earth Sciences Division](https://data.giss.nasa.gov/gistemp/)
 * [NOAA National Center for Environmental Information](https://www.ncdc.noaa.gov/cag/global/time-series/globe)
-* [Met Office Hadley Centre observation datasets](ttps://www.metoffice.gov.uk/hadobs/hadcrut4/)
+* [Met Office Hadley Centre observation datasets](https://www.metoffice.gov.uk/hadobs/hadcrut4/)
 * [Berkeley Earth](http://berkeleyearth.lbl.gov/)
 
 |Ressources	                 | Période   | Période de référence |
@@ -21,13 +21,15 @@ L'ensemble des séries temporelles disponibles représentent des anomalies de te
 
 #### Programmation
 * [scrape_global_temps](https://github.com/hausfath/scrape_global_temps). Séries de scripts pour télécharger les données de références
-* [Fabien Maussion repository](https://github.com/fmaussion/bokeh-stripes)
+* [Fabien Maussion repository](https://github.com/fmaussion/bokeh-stripes). Repository d'un glaciologue de l'université d'Innsbruck
 
 #### Visualisations avancées
 Utilisation IPython, Bokeh
  [Bandes annuelles](../annual-stripes-700x300.html)
  [Bandes mensuelles](../monthly-stripes-700x300.html)
  
-<iframe width="560" height="315" src="annual-stripes-700x300.html" frameborder="0" allowfullscreen></iframe>
+ [![Bandes annuelles](../annual-stripes-700x300.html)
+ 
+<br> <a href="../annual-stripes-700x300.html"></a><br>
 
 <iframe width="560" height="315" src="monthly-stripes-700x300.html" frameborder="0" allowfullscreen></iframe>
