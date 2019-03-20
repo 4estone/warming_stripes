@@ -21,11 +21,10 @@ L'ensemble des séries temporelles disponibles représentent des anomalies de te
 
 #### Programmation
 * [scrape_global_temps](https://github.com/hausfath/scrape_global_temps). Séries de scripts pour télécharger les données de références
-* [Fabien Maussion repository](https://github.com/fmaussion/bokeh-stripes). Repository d'un glaciologue de l'université d'Innsbruck
+* [Fabien Maussion repository](https://github.com/fmaussion/bokeh-stripes). Dépôt d'un glaciologue de l'université d'Innsbruck
 
 #### Un exemple
-Réalisé avec le script warmingStripesV1.py
-
+Réalisé avec le script [warmingStripesV1.py](warmingStripesV1.py) et les données du Goddard Space Center.
 <p><img src="images/global_temps_line_year.png" width="1000" height="500" /></p>
 
 #### Visualisations avancées
